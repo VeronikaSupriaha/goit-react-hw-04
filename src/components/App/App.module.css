@@ -1,0 +1,9 @@
+.loadingError{
+    text-align: center;
+    font-size: 24px;
+        font-weight: 400;
+        line-height: 1;
+        letter-spacing: -.02em;
+        color: #717fbf;
+}
+
